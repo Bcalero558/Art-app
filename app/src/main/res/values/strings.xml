@@ -1,0 +1,398 @@
+<resources>
+    <string name="app_name">Art Space</string>
+
+
+   <!--van gogh-->
+    <string name ="art_1_artist_name">Vincent Van Gogh</string>
+    <string name ="art_1_artist_info">Dutch, 1853-1890</string>
+    <string name ="art_1_title">The Prison Courtyard</string>
+    <string name ="art_1_year">1890</string>
+    <string name ="art_1_description">The Prison Courtyard by Vincent Van Gogh1890</string>
+
+    <string name ="art_1_artist_bio">
+        Vincent Willem van Gogh was a Dutch post-impressionist painter who posthumously became one of the most
+        famous and influential figures in the history of Western art. In a decade, he created about 2,100 artworks,
+        including around 860 oil paintings, most of which date from the last two years of his life. They include landscapes,
+        still lifes, portraits and self-portraits, and are characterised by bold colours and dramatic, impulsive and expressive brushwork that contributed to the foundations of modern art. He was not commercially successful, and his suicide at 37 came after years of mental illness, depression and poverty.
+
+Born into an upper-middle-class family, Van Gogh drew as a child and was serious, quiet, and thoughtful. As a young man he
+        worked as an art dealer, often travelling, but became depressed after he was transferred to London. He turned to
+        religion and spent time as a Protestant missionary in southern Belgium. He drifted in ill health and solitude
+        before taking up painting in 1881, having moved back home with his parents. His younger brother Theo supported
+        him financially, and the two kept a long correspondence by letter. His early works, mostly still lifes and
+        depictions of peasant labourers, contain few signs of the vivid colour that distinguished his later work.
+        In 1886, he moved to Paris, where he met members of the avant-garde, including Émile Bernard and Paul Gauguin,
+        who were reacting against the Impressionist sensibility. As his work developed he created a new approach to still
+        lifes and local landscapes. His paintings grew brighter in colour as he developed a style that became fully
+        realised during his stay in Arles in the south of France in 1888. During this period he broadened his subject
+        matter to include series of olive trees, wheat fields and sunflowers.
+
+Van Gogh suffered from psychotic episodes and delusions and though he worried about his mental stability,
+        he often neglected his physical health, did not eat properly and drank heavily. His friendship with Gauguin
+        ended after a confrontation with a razor when, in a rage, he severed part of his own left ear. He spent time in
+        psychiatric hospitals, including a period at Saint-Rémy. After he discharged himself and moved to the Auberge
+        Ravoux in Auvers-sur-Oise near Paris, he came under the care of the homeopathic doctor Paul Gachet. His depression
+        continued and on 27 July 1890, Van Gogh shot himself in the chest with a Lefaucheux revolver. He died from his
+        injuries two days later.
+
+Van Gogh was unsuccessful during his lifetime, and he was considered a madman and a failure. He became famous after
+        his suicide and exists in the public imagination as a misunderstood genius, the artist \"where discourses on
+        madness and creativity converge\". His reputation began to grow in the early 20th century as elements of his
+        painting style came to be incorporated by the Fauves and German Expressionists. He attained widespread critical,
+        commercial and popular success over the ensuing decades, and he is remembered as an important but tragic painter,
+        whose troubled personality typifies the romantic ideal of the tortured artist. Today, Van Gogh\'s works are among
+        the world\'s most expensive paintings to have ever sold, and his legacy is honoured by a museum in his name, the
+        Van Gogh Museum in Amsterdam, which holds the world\'s largest collection of his paintings and drawings.
+    </string>
+
+
+    <!--Michelangelo-->
+    <string name ="art_2_artist_name">Michelangelo</string>
+    <string name ="art_2_artist_info">Italian, 1475-1564</string>
+    <string name ="art_2_title">The Torment of Saint Anthony </string>
+    <string name ="art_2_year">1487</string>
+    <string name ="art_2_description">The Torment of Saint Anthony by Michelangelo 1487</string>
+
+    <string name ="art_2_artist_bio">
+Michelangelo di Lodovico Buonarroti Simoni, known simply as Michelangelo , was an Italian sculptor, painter,
+        architect and poet of the High Renaissance born in the Republic of Florence, who exerted an unparalleled
+        influence on the development of Western art. His artistic versatility was of such a high order that he is
+        often considered a contender for the title of the archetypal Renaissance man, along with his rival and elder
+        contemporary, Leonardo da Vinci. Several scholars have described Michelangelo as the greatest artist of his age
+        and even as the greatest artist of all time.
+
+A number of Michelangelo\'s works of painting, sculpture and architecture rank among the most famous in existence.
+        His output in these fields was prodigious; given the sheer volume of surviving correspondence, sketches and
+        reminiscences, he is the best-documented artist of the 16th century. He sculpted two of his best-known works,
+        the Pietà and David, before the age of thirty. Despite holding a low opinion of painting, he also created two of
+        the most influential frescoes in the history of Western art: the scenes from Genesis on the ceiling of the Sistine
+        Chapel in Rome, and The Last Judgment on its altar wall. His design of the Laurentian Library pioneered Mannerist
+        architecture. At the age of 74, he succeeded Antonio da Sangallo the Younger as the architect of St. Peter\'s
+        Basilica. He transformed the plan so that the western end was finished to his design, as was the dome, with some
+        modification, after his death.
+
+Michelangelo was the first Western artist whose biography was published while he was alive. In fact, two biographies were
+        published during his lifetime. One of them, by Giorgio Vasari, proposed that Michelangelo\'s work transcended that
+        of any artist living or dead, and was \"supreme in not one art alone but in all three\".
+
+In his lifetime, Michelangelo was often called Il Divino (\"the divine one\"). His contemporaries often admired
+        his terribilità—his ability to instil a sense of awe. Attempts by subsequent artists to imitate Michelangelo\'s
+        impassioned, highly personal style resulted in Mannerism, the next major movement in Western art after the High
+        Renaissance.
+
+    </string>
+
+
+    <!--Leonardo da Vinci-->
+    <string name ="art_3_artist_name">Leonardo da Vinci</string>
+    <string name ="art_3_artist_info">Italian, 1452-1519</string>
+    <string name ="art_3_title">Mona Lisa</string>
+    <string name ="art_3_year">1506</string>
+    <string name ="art_3_description">Mona Lisa by Leonardo da Vinci 1506 </string>
+
+    <string name ="art_3_artist_bio">
+Leonardo da Vinci was an Italian polymath of the High Renaissance who is widely considered one of the greatest painters
+        of all time. The Mona Lisa is the most famous of his works and the most famous portrait ever made.
+        The Last Supper is the most reproduced religious painting of all time and his Vitruvian Man drawing is also
+        regarded as a cultural icon. He is also known for his notebooks, in which he made drawings and notes on science
+        and invention; these involve a variety of subjects including anatomy, cartography, painting, and palaeontology.
+        Leonardo\'s collective works compose a contribution to later generations of artists rivalled only by that of
+        his contemporary Michelangelo.
+
+Properly named Leonardo di ser Piero da Vinci, Leonardo was born out of wedlock to a notary, Piero da Vinci, and a
+        peasant woman, Caterina, in Vinci, in the region of Florence, Italy. Leonardo was educated in the studio of the
+        renowned Italian painter Andrea del Verrocchio. Much of his earlier working life was spent in the service of
+        Ludovico il Moro in Milan, and he later worked in Rome, Bologna and Venice. He spent his last three years in
+        France, where he died in 1519.
+
+Although he had no formal academic training, many historians and scholars regard Leonardo as the prime exemplar of the
+        \"Renaissance Man\" or \"Universal Genius\", an individual of \"unquenchable curiosity\" and \"feverishly
+        inventive imagination.\" He is widely considered one of the most diversely talented individuals ever to have
+        lived. According to art historian Helen Gardner, the scope and depth of his interests were without precedent
+        in recorded history, and "his mind and personality seem to us superhuman, while the man himself mysterious and
+        remote." Scholars interpret his view of the world as being based in logic, though the empirical methods he used
+        were unorthodox for his time.
+
+Leonardo is revered for his technological ingenuity. He conceptualized flying machines,
+        a type of armoured fighting vehicle, concentrated solar power, an adding machine, and the double hull.
+        Relatively few of his designs were constructed or even feasible during his lifetime, as the modern scientific
+        approaches to metallurgy and engineering were only in their infancy during the Renaissance. Some of his smaller
+        inventions, however, entered the world of manufacturing unheralded, such as an automated bobbin winder and a
+        machine for testing the tensile strength of wire. He is also sometimes credited with the inventions of the
+        parachute, helicopter, and tank. He made substantial discoveries in anatomy, civil engineering, geology, optics,
+        and hydrodynamics, but he did not publish his findings and they had little to no direct influence on subsequent
+        science.
+    </string>
+
+
+    <!--Ludwig-->
+    <string name ="art_4_artist_name">Ernst Ludwig Kirchner</string>
+    <string name ="art_4_artist_info">German, 1880-1938</string>
+    <string name ="art_4_title">Western Harbour in Frankfurt am Main</string>
+    <string name ="art_4_year">1916</string>
+    <string name ="art_4_description">Western Harbour in Frankfurt am Main by Ernst Ludwig Kirchner 1916</string>
+
+    <string name ="art_4_artist_bio">
+Ernst Ludwig Kirchner was a German expressionist painter and printmaker and one of the founders of the artists group Die Brücke or
+        \"The Bridge\", a key group leading to the foundation of Expressionism in 20th-century art. He volunteered for army service
+        in the First World War, but soon suffered a breakdown and was discharged. His work was branded as \"degenerate\" by the
+        Nazis in 1933, and in 1937 more than 600 of his works were sold or destroyed.
+
+Ernst Ludwig Kirchner was born in Aschaffenburg, Bavaria. His parents were of Prussian descent and his mother was a descendant of the
+        Huguenots, a fact to which Kirchner often referred. As Kirchner\'s father searched for a job, the family moved frequently and
+        Kirchner attended schools in Frankfurt and Perlen until his father earned the position of Professor of Paper Sciences at the
+        College of technology in Chemnitz, where Kirchner attended secondary school. Although Kirchner\'s parents encouraged his
+        artistic career they also wanted him to complete his formal education so in 1901, he began studying architecture at the
+        Königliche Technische Hochschule (royal technical university) of Dresden. The institution provided a wide range of studies
+        in addition to architecture, such as freehand drawing, perspective drawing and the historical study of art.
+        While in attendance, he became close friends with Fritz Bleyl, whom Kirchner met during the first term. They discussed art
+        together and also studied nature, having a radical outlook in common. Kirchner continued studies in Munich from 1903 to
+        1904, returning to Dresden in 1905 to complete his degree.
+
+In 1905, Kirchner, along with Bleyl and two other architecture students, Karl Schmidt-Rottluff and Erich Heckel, founded
+        the artists group Die Brücke (\"The Bridge\"). From then on, he committed himself to art. The group aimed to eschew the
+        prevalent traditional academic style and find a new mode of artistic expression, which would form a bridge (hence the name)
+        between the past and the present. They responded both to past artists such as Albrecht Dürer, Matthias Grünewald and Lucas
+        Cranach the Elder, as well as contemporary international avant-garde movements. As part of the affirmation of their national
+        heritage, they revived older media, particularly woodcut prints.
+
+Their group was one of the seminal ones which in due course had a major impact on the evolution of modern art in the 20th century
+        and created the style of Expressionism. The group met initially in Kirchner\'s first studio, which had previously been a
+        butcher\'s shop. Bleyl described it as \"that of a real bohemian, full of paintings lying all over the place, drawings, books
+        and artist’s materials — much more like an artist’s romantic lodgings than the home of a well-organised architecture student
+        \".
+
+Kirchner\'s studio became a venue which overthrew social conventions to allow casual love-making and frequent nudity.
+        Group life-drawing sessions took place using models from the social circle, rather than professionals, and choosing
+        quarter-hour poses to encourage spontaneity. Bleyl described one such model, Isabella, a fifteen-year-old girl from the neighbourhood,
+        as \"a very lively, beautifully built, joyous individual, without any deformation caused by the silly fashion of the corset
+        and completely suitable to our artistic demands, especially in the blossoming condition of her girlish buds.\"
+
+A group manifesto written by Kirchner in 1906 stated that \"Everyone who reproduces, directly and without illusion,
+        whatever he senses the urge to create, belongs to us\".
+
+In September and October 1906, the first group exhibition was held, focused on the female nude, in the showroom of K.F.M. Seifert
+        and Co. in Dresden.
+
+In 1906, he met Doris Große, who was his favoured model until 1911. Between 1907 and 1911, he stayed during the summer at the
+        Moritzburg lakes and on the island of Fehmarn (which he revisited until 1914) with other Brücke members; his work featured t
+        he female nude in natural settings. In 1911, he moved to Berlin, where he founded a private art school, MIUM-Institut,
+        in collaboration with Max Pechstein with the aim of promulgating \"Moderner Unterricht im Malen\" (modern teaching of
+        painting). This was not a success and closed the following year, when he also began a relationship with Erna Schilling
+        that lasted the rest of his life.
+
+In 1913, his writing of Chronik der Brücke (Brücke chronicle) led to the ending of the group. At this time, he established an
+        individual identity with his first solo exhibition, which took place at the Essen Folkwang Museum. During the next two
+        years, he painted a series of \"Straßenszenen\" (street scenes) showing the streets of Berlin, with the central characters
+        of street walkers.
+
+At the onset of the First World War in September 1914, Kirchner volunteered for military service. In July 1915 he was sent to Halle
+        an der Saale to train as a driver in the reserve unit of the 75th Mansfeld Field Artillery Regiment. Kirchner\'s riding
+        instructor, Professor Hans Fehr, arranged for Kirchner to be discharged after a mental breakdown. Kirchner then returned
+        to Berlin and continued to work, producing many paintings including Self-Portrait as a Soldier (1915); in December 1915
+        he was admitted to Dr. Kohnstamm’s sanatorium in Königstein in Taunus, where he was diagnosed with a strong dependency on
+        Veronal, and alcoholism. In a letter to Dr. Karl Hagemann, a friend and patron, Kirchner writes: \"After lengthy struggles
+        I now find myself here for a time to put my mind into some kind of order. It is a terribly difficult thing, of course, to
+        be among strangers so much of the day. But perhaps I’ll be able to see and create something new. For the time being,
+        I would like more peace and absolute seclusion. Of course, I long more and more for my work and my studio. Theories may
+        be all very well for keeping a spiritual balance, but they are grey and shadowy compared with work and life\". Throughout
+        1916, Kirchner periodically returned to Berlin for a few weeks at a time to continue his work at his studio; he also
+        produced a series of oil paintings, and many drawings, during his stays in Königstein. After an exhibition of his work at
+        the gallery of Ludwig Schames, in Frankfurt am Main, in October 1916, Kirchner sold many works and began to do well
+        financially. In December, he suffered from a nervous breakdown and was admitted to Dr. Edel’s sanatorium in Berlin
+        Charlottenburg.
+
+In 1917, at the suggestion of Eberhard Grisebach [de], Helene Spengler invited Kirchner to Davos where he viewed an exhibition of
+        Ferdinand Hodler\'s paintings. Kirchner\'s first visit to Davos coincided with a spell of exceptionally cold weather and
+        he returned to Berlin after a stay of only ten days.
+
+Eberhard Grisebach visited him in March, writing to Helen Spengler of Kirchner\'s condition: \"I spent two mornings with Kirchner
+        which I shall never forget. I found him sitting on a very low chair next to a small, hot stove in a yellow-painted,
+        sloping-roofed attic. Only with the help of a stick was he able to walk, staggering around the room. ... A colourfully
+        painted curtain concealed a large collection of paintings. When we began to look at them, he came alive. Together with me,
+        he saw all his experiences drift by on canvas, the small, timid-looking woman set aside what we had seen and brought
+        a bottle of wine. He made short explanatory remarks in a weary voice. Each picture had its own particular colourful
+        character, a great sadness was present in all of them; what I had previously found to be incomprehensible and unfinished
+        now created the same delicate and sensitive impression as his personality. Everywhere a search for style, for psychological
+        understanding of his figures. The most moving was a self- portrait in uniform with his right hand cut off. Then he showed
+        me his travel permit for Switzerland. He wanted to go back to Davos... and implored me to ask father for a medical
+        certificate. ... As the woman with him rightly said, though many people want to help him, nobody is able to do so any
+        longer. ... When I was leaving, I thought of Van Gogh’s fate and thought that it would be his as well, sooner or later.
+        Only later will people understand and see how much he has contributed to painting\".
+
+Soon after, Kirchner\'s close friend and mentor, Botho Graef died and Kirchner decided to return to Davos for treatment. There he
+        was under the care of Dr. Lucius Spengler who forced Kirchner to adhere to strict rules and routine. Kirchner deeply
+        resented this and did everything in his power to deceive the doctor: \"Spengler didn’t know what to do with me, for my d
+        eception was totally alien to this excellent man’s way of thinking\". To avoid being under constant watch, Kirchner
+        moved to the Reusch Hut on the Stafelalp in the summer of 1917. Kirchner continued to experience depression, occasional
+        pain and paralysis of his limbs but wrote in a more cheerful tone to Dr. Hagemann at the end of July: \"I wish to remain
+        in the world and for the world. The high mountains here will help me\". The summer was very productive despite Kirchner\'s
+        illness. He finished some important pieces during the two month, such as \"View of the Church in Monstein\" and \"Rising
+        Moon in the Stafelalp\". Together with 11 woodcuts, these works marked the start of Kirchner\'s Alpine life.
+
+Kirchner was then admitted to The Bellevue Sanatorium, run by Ludwig Binswanger, in Kreuzlingen where he continued to produce
+        paintings and woodcuts. In 1918, Kirchner was given a residence permit and he moved to \"In den Lärchen\" in Frauenkirch
+        Davos where he rented a room on the first floor and eventually the above rooms in 1919, which he decorated with furniture
+        that he carved. He wrote of the house to Henry van de Velde: \"I’m living in a beautiful old Grisons house with a kitchen
+        that looks like Rembrandt’s studio\". Kirchner overcame his illness and, although he was still dependent on morphine,
+        his doctor was slowly decreasing his doses. He also writes \"A Painter\'s Credo\" where he states: \"There is an
+        intellectual guardianship over the world, it is man…. This is the last judgement, before them you stand…..
+        They help you when you work. You can thank them only through work. When you want to die, they sometimes appear to you.
+        When you are completely empty and completely open, you belong to them". Erna Schilling, his life partner, visited him
+        periodically in Frauenkirch, while also maintaining a residence in Berlin to take care of Kirchner'\s business there.
+
+Kirchner continued to work through 1919 and 1920 as his health also rapidly improved. His reputation grew with several
+        exhibitions in Germany and Switzerland in 1920. He was provided with many subjects to paint as he came to know the farmers
+        of the area, who were amazed by Kirchner\'s gramophone. Kirchner writes of the people of Davos: \"The people who live here
+        are proud. The hard work, which is done with great love, the way they treat animals (you very seldom see an animal being
+        mishandled) entitle them to be proud. In most cases, work here has reached the ideal standard of being done with love.
+        You can see it in the movements of their hands. And that, in turn, ennobles the facial expression and imbues all personal
+        contacts with a great delicacy. This is a country in which democracy has become reality. Here a man’s word still counts,
+        and you need have no fears about sleeping with your doors open. I am so happy to be allowed to be here, and through hard
+        work I should like to thank the people for the kindness they have shown me\". Kirchner began writing critiques of his own
+        art under the pseudonym of Louis de Marsalle in order to control public opinion of him and free himself of dependence upon
+        the art critics of the day.
+
+In 1921, there was a major display of Kirchner\'s work in Berlin; the reviews were favourable. Kirchner\'s father died on the 14
+        February. Kirchner visited Zurich at the beginning of May and met the dancer, Nina Hard, whom he invited back to
+        Frauenkirch (despite Erna\'s objections). Nina Hard would become an important model for Kirchner and would be featured in
+        many of his works. Kirchner began creating designs for carpets which were then woven by Lise Gujer.
+
+In 1923, Kirchner moved to the Wildboden house, writing in his diary: \"Our new little house is a real joy to us. We shall live
+        here comfortably and in great new order. This will really come to be a turning point of my life. Everything must be put
+        in clear order and the little house furnished as simply and modestly as possible, while still being beautiful and intimate\".
+        The house looked over Frauenkirch and the Stafelalp on one side and on the other, Davos and Kirchner used these landscapes as
+        subjects for many of his paintings.
+
+In 1925, Kirchner became close friends with fellow artist, Albert Müller and his family. Rot-Blau, a new art group based in Basle,
+        was formed by Hermann Scherer, Albert Müller, Paul Camenisch and Hans Schiess, who all visited Kirchner and worked under
+        his guidance. At the end of 1925, Kirchner returned to Germany and made his rounds to Frankfurt, Chemnitz (where his mother
+        was living), and Berlin where he met with Karl Schmidt-Rottluff who wanted Kirchner to form a new artist\'s group; Kirchner
+        politely refused. He then returned to Frauenkirch and wrote to Dr. Hageman on 26 March 1926:\"Now I’m sitting quietly at
+        home again and I’m happy to be able to work undisturbed. I made a lot of sketches of life in Germany and it was very
+        intriguing to see life there. I was also glad to see the old pictures of Rembrandt, Dürer, etc. again and to have the
+        confirmation and encouragement they gave me. As for the moderns, I saw damned little that gripped me\". In December 1926,
+        Kirchner\'s close friend, Albert Müller, died of typhus along with his wife, Anni Müller. In 1927, Kirchner organized a
+        memorial exhibition for Albert Müller at the Kunsthalle Basel. There was a major exhibition of Kirchner\'s work at the
+        schoolhouse in Davos; the reviews were positive.
+
+Kirchner continued to work in Frauenkirch, his style growing increasingly abstract. In 1929, Kirchner was forced to distance
+        himself from Rot-Blau after they pledged allegiance to him, which upset Kirchner greatly. He addressed them in \"
+        open letter to the Basle Red-Blue group\" in No. 5 of Das Kunstbaltt, where stated that he was not their patron.
+        In the same year, Kirchner visited Zurich, Berlin, and Essen. He was also visited in Frauenkirch by the painter Fritz Winter.
+
+In 1930, Kirchner began to experience health problems due to smoking and in 1931 Erna had to undergo surgery in Berlin due to a
+        suspected growth. In 1931, he was made a member of the Prussian Academy of Arts in Berlin. As the Nazi party took power
+        in Germany, it became impossible for Kirchner to sell his paintings. In 1937, he was forced to resign from the Prussian
+        Academy of Arts. Kirchner became increasingly disturbed by the situation in Germany, writing: \"Here we have been hearing
+        terrible rumours about torture of the Jews, but it’s all surely untrue. I’m a little tired and sad about the situation up
+        there. There is a war in the air. In the museums, the hard-won cultural achievements of the last 20 years are being
+        destroyed, and yet the reason why we founded the Brücke was to encourage truly German art, made in Germany. And now it
+        is supposed to be un-German. Dear God. It does upset me\".
+
+In 1934, Kirchner visited Berne and Zurich, finding the former more pleasing than the latter, and met Paul Klee. In the winter of
+        1935, a new school was being planned to be built in Frauenkirch and Kirchner offered to paint a mural. This project was
+        dropped and instead Kirchner created a sculpture to be placed above the door of the schoolhouse. Reflecting on the
+        inauguration of the schoolhouse in 1936 he writes, \"the new school was inaugurated yesterday. It was a celebration
+        with songs, dancing and speeches, followed by drinking such as I have not seen or experienced in decades...They made a
+        point of including me and so there I was, sitting once again amongst these people who had received me with such kindness
+        and friendliness on the alp twenty years ago. The relief has found favour and was mentioned often in the speeches\".
+
+Throughout 1936 and 1937, Kirchner began to experience health problems and was prescribed Ovaltine and Eukodal by his doctors.
+        In 1937, the Degenerate Art Exhibition took place in Germany; a total of 639 works by Kirchner were taken out of museums
+        and 25 were displayed in the exhibition. The Academy of Arts in Berlin expelled Kirchner as a member. Kirchner continued
+        to work and organised a major exhibit in Basle, which received mixed reviews. Throughout 1938, Kirchner became increasingly
+        upset with the situation in Germany. After Austria was annexed by Germany in the Anschluss, Kirchner became disturbed by the
+        idea that Germany might invade Switzerland. On 15 June 1938, Kirchner took his own life by gunshot in front of his home in
+        Frauenkirch; however, there are doubts about his death being a suicide. Three days later, Kirchner was laid to rest in the
+        Waldfriedhof cemetery. Erna continued to live in the house until her death in 1945.
+    </string>
+
+
+    <!--Wassily Kandinsky-->
+    <string name ="art_5_artist_name">Wassily Kandinsky</string>
+    <string name ="art_5_artist_info">Russian, 1866 - 1944</string>
+    <string name ="art_5_title">Two Women in a Moonlit Landscape</string>
+    <string name ="art_5_year">1911</string>
+    <string name ="art_5_description">Two Women in a Moonlit Landscape by Wassily Kandinsky 1911</string>
+
+    <string name ="art_5_artist_bio">
+Wassily Wassilyevich Kandinsky was a Russian painter and art theorist. Kandinsky is generally credited as the pioneer of abstract art. Born in Moscow, Kandinsky spent his childhood in Odessa (today Ukraine), where he graduated at Grekov
+        Odessa Art school. He enrolled at the University of Moscow, studying law and economics. Successful in his profession—he was offered a professorship (chair of Roman Law) at the University of Dorpat (today Tartu, Estonia)—Kandinsky
+        began painting studies (life-drawing, sketching and anatomy) at the age of 30.
+
+In 1896, Kandinsky settled in Munich, studying first at Anton Ažbe\'s private school and then at the Academy of Fine Arts. He returned to Moscow in 1914, after the outbreak of World War I. Following the Russian Revolution,
+        Kandinsky \"became an insider in the cultural administration of Anatoly Lunacharsky\" and helped establish the Museum of the Culture of Painting. However, by then \"his spiritual outlook... was foreign to the argumentative materialism of
+        Soviet society\", and opportunities beckoned in Germany, to which he returned in 1920. There he taught at the Bauhaus school of art and architecture from 1922 until the Nazis closed it in 1933. He then moved to France, where he lived for the
+        rest of his life, becoming a French citizen in 1939 and producing some of his most prominent art. He died in Neuilly-sur-Seine in 1944.
+    </string>
+
+    <!--M-->
+    <string name ="art_6_artist_name">Ohara Koson</string>
+    <string name ="art_6_artist_info">Japanese, 1877-1945</string>
+    <string name ="art_6_title">Songbird on blossom branch</string>
+    <string name ="art_6_year">1936</string>
+    <string name ="art_6_description">Songbird on blossom branch by Ohara Koson 1936</string>
+
+    <string name ="art_6_artist_bio">
+Ohara Koson was a Japanese painter and woodblock print designer of the late 19th and early 20th centuries, part of the shin-hanga (\"new prints\") movement.
+Ohara Koson was famous as a master of kachō-e (bird-and-flower) designs. Throughout a prolific career, in which he created around 500 prints, he went by three different titles: Ohara Hōson (小原豊邨), Ohara Shōson (小原祥邨) and Ohara Koson.
+He was born Ohara Matao; it is thought that he started training in painting and design at the Ishikawa Prefecture Technical School in 1889–1893. He also studied painting with Suzuki Kason (1860–1919), although accounts differ on whether this happened during his school years or after he moved to Tokyo in the middle to late 1890s.
+In Tokyo, he produced some ukiyo-e triptychs illustrating episodes of the Russo-Japanese War, but most of his production was prints of birds-and-flowers (kachō-e). He worked at first with publishers Akiyama Buemon (Kokkeidō) and Matsuki Heikichi (Daikokuya), signing his work Koson. Starting around 1926, he became associated with the publisher Watanabe Shōzaburō, and signed his work Shōson. He also worked with the publisher Kawaguchi, signing his works Hōson.
+Through his association with Watanabe, Ohara\'s work was exhibited abroad, and his prints sold well, particularly in the United States. He was active designing prints until at least 1935, and died at his home in Tokyo in 1945.
+His work is held in several museums worldwide, including the Toledo Museum of Art, the Brooklyn Museum, the British Museum, the University of Michigan Museum of Art, the Museum of Fine Arts, Boston, the Harvard Art Museums, the Rijksmuseum, the Carnegie Museum of Art, the Saint Louis Art Museum, the Indianapolis Museum of Art, the Museum of New Zealand, the Museum of Anthropology at the University of British Columbia, the Birmingham Museum of Art, the John and Mable Ringling Museum of Art, and the Clark Art Institute.
+The Manggha museum in Krakow, Poland held a large retrospective in 2021 from the collection of Romanian musical artist Adrian Ciceu, brother of Eugen Cicero.
+
+    </string>
+
+    <!--M-->
+    <string name ="art_7_artist_name">John Singer Sargent</string>
+    <string name ="art_7_artist_info">American, 1856-1925</string>
+    <string name ="art_7_title">Portrait Of Millicent Leveson-Gower, Duchess Of Sutherland</string>
+    <string name ="art_7_year">1904</string>
+    <string name ="art_7_description">Portrait Of Millicent Leveson-Gower, Duchess Of Sutherland by John Singer Sargent 1904</string>
+
+    <string name ="art_7_artist_bio">
+John Singer Sargent was an American expatriate artist, considered the \"leading portrait painter of his generation\" for his evocations of Edwardian-era luxury. He created roughly 900 oil paintings and more than 2,000 watercolors, as well as countless sketches and charcoal drawings. His oeuvre documents worldwide travel, from Venice to the Tyrol, Corfu, Spain, the Middle East, Montana, Maine, and Florida.
+Born in Florence to American parents, he was trained in Paris before moving to London, living most of his life in Europe. He enjoyed international acclaim as a portrait painter. An early submission to the Paris Salon in the 1880s, his Portrait of Madame X, was intended to consolidate his position as a society painter in Paris, but instead resulted in scandal. During the next year following the scandal, Sargent departed for England where he continued a successful career as a portrait artist.
+From the beginning, Sargent\'s work is characterized by remarkable technical facility, particularly in his ability to draw with a brush, which in later years inspired admiration as well as criticism for a supposed superficiality. His commissioned works were consistent with the grand manner of portraiture, while his informal studies and landscape paintings displayed a familiarity with Impressionism. In later life Sargent expressed ambivalence about the restrictions of formal portrait work, and devoted much of his energy to mural painting and working en plein air. Art historians generally ignored society artists such as Sargent until the late 20th century.
+The exhibition in the 1980s of Sargent\'s previously hidden male nudes served to spark a re-evaluation of his life and work, and its psychological complexity. In addition to the beauty, sensation, and innovation of his oeuvre, his same-sex interests, unconventional friendships with women, and engagement with race, gender-nonconformity and emerging globalism, are now viewed as socially and aesthetically progressive, and radical.
+Sargent is a descendant of Epes Sargent, a colonial military leader and jurist. Before John Singer Sargent\'s birth, his father, FitzWilliam (b. 1820 Gloucester, Massachusetts), was an eye surgeon at the Wills Eye Hospital in Philadelphia 1844–1854. After John\'s older sister died at the age of two, his mother, Mary Newbold Singer (née Singer, 1826–1906), suffered a breakdown, and the couple decided to go abroad to recover. They remained nomadic expatriates for the rest of their lives. Although based in Paris, Sargent\'s parents moved regularly with the seasons to the sea and the mountain resorts in France, Germany, Italy, and Switzerland.
+While Mary was pregnant, they stopped in Florence, Tuscany, because of a cholera epidemic. Sargent was born there in 1856. A year later, his sister Mary was born. After her birth, FitzWilliam reluctantly resigned his post in Philadelphia and accepted his wife\'s request to remain abroad. They lived modestly on a small inheritance and savings, leading a quiet life with their children. They generally avoided society and other Americans except for friends in the art world. Four more children were born abroad, of whom only two lived past childhood.
+Although his father was a patient teacher of basic subjects, young Sargent was a rambunctious child, more interested in outdoor activities than his studies. As his father wrote home, \"He is quite a close observer of animated nature.\" His mother was convinced that traveling around Europe, and visiting museums and churches, would give young Sargent a satisfactory education. Several attempts to have him formally schooled failed, owing mostly to their itinerant life. His mother was a capable amateur artist and his father was a skilled medical illustrator. Early on, she gave him sketchbooks and encouraged drawing excursions. Sargent worked on his drawings, and he enthusiastically copied images from The Illustrated London News of ships and made detailed sketches of landscapes. FitzWilliam had hoped that his son\'s interest in ships and the sea might lead him toward a naval career.
+At thirteen, his mother reported that John \"sketches quite nicely, and has a remarkably quick and correct eye. If we could afford to give him really good lessons, he would soon be quite a little artist.\" At the age of thirteen, he received some watercolor lessons from Carl Welsch, a German landscape painter. Although his education was far from complete, Sargent grew up to be a highly literate and cosmopolitan young man, accomplished in art, music, and literature. He was fluent in English, French, Italian, and German. At seventeen, Sargent was described as \"willful, curious, determined and strong\" (after his mother) yet shy, generous, and modest (after his father). He was well-acquainted with many of the great masters from first hand observation, as he wrote in 1874, \"I have learned in Venice to admire Tintoretto immensely and to consider him perhaps second only to Michelangelo and Titian.\"
+An attempt to study at the Academy of Florence failed, as the school was reorganizing at the time. After returning to Paris from Florence, Sargent began his art studies with the young French portraitist Carolus-Duran. Following a meteoric rise, the artist was noted for his bold technique and modern teaching methods; his influence would be pivotal to Sargent during the period from 1874 to 1878.
+In 1874 Sargent passed on his first attempt the rigorous exam required to gain admission to the École des Beaux-Arts, the premier art school in France. He took drawing classes, which included anatomy and perspective, and gained a silver prize. He also spent much time in self-study, drawing in museums and painting in a studio he shared with James Carroll Beckwith. He became both a valuable friend and Sargent\'s primary connection with the American artists abroad. Sargent also took some lessons from Léon Bonnat.
+Carolus-Duran\'s atelier was progressive, dispensing with the traditional academic approach, which required careful drawing and underpainting, in favor of the alla prima method of working directly on the canvas with a loaded brush, derived from Diego Velázquez. It was an approach that relied on the proper placement of tones of paint. Sargent would later create a painting in this style that prompted comments such as: \"The student has surpassed the teacher.\"
+This approach also permitted spontaneous flourishes of color not bound to an underdrawing. It was markedly different from the traditional atelier of Jean-Léon Gérôme, where Americans Thomas Eakins and Julian Alden Weir had studied. Sargent was the star student in short order. Weir met Sargent in 1874 and noted that Sargent was \"one of the most talented fellows I have ever come across; his drawings are like the old masters, and his color is equally fine.\" Sargent\'s excellent command of French and his superior talent made him both popular and admired. Through his friendship with Paul César Helleu, Sargent would meet giants of the art world, including Degas, Rodin, Monet, and Whistler.
+Sargent\'s early enthusiasm was for landscapes, not portraiture, as evidenced by his voluminous sketches full of mountains, seascapes, and buildings. Carolus-Duran\'s expertise in portraiture finally influenced Sargent in that direction. Commissions for history paintings were still considered more prestigious, but were much harder to get. Portrait painting, on the other hand, was the best way of promoting an art career, getting exhibited in the Salon, and gaining commissions to earn a livelihood.
+Sargent\'s first major portrait was of his friend Fanny Watts in 1877, and was also his first Salon admission. Its particularly well-executed pose drew attention. His second salon entry was the Oyster Gatherers of Cançale, an impressionistic painting of which he made two copies, one of which he sent back to the United States, and both received warm reviews.
+In 1879, at the age of 23, Sargent painted a portrait of teacher Carolus-Duran; the virtuoso effort met with public approval and announced the direction his mature work would take. Its showing at the Paris Salon was both a tribute to his teacher and an advertisement for portrait commissions. Of Sargent\'s early work, Henry James wrote that the artist offered \"the slightly \'uncanny\' spectacle of a talent which on the very threshold of its career has nothing more to learn.\"
+After leaving Carolus-Duran\'s atelier, Sargent visited Spain. There he studied the paintings of Velázquez with a passion, absorbing the master\'s technique, and in his travels gathered ideas for future works. He was entranced with Spanish music and dance. The trip also re-awakened his own talent for music (which was nearly equal to his artistic talent), and which found visual expression in his early masterpiece El Jaleo (1882). Music would continue to play a major part in his social life as well, as he was a skillful accompanist of both amateur and professional musicians. Sargent became a strong advocate for modern composers, especially Gabriel Fauré. Trips to Italy provided sketches and ideas for several Venetian street scenes genre paintings, which effectively captured gestures and postures he would find useful in later portraiture.
+Upon his return to Paris, Sargent quickly received several portrait commissions. His career was launched. He immediately demonstrated the concentration and stamina that enabled him to paint with workman-like steadiness for the next twenty-five years. He filled in the gaps between commissions with many non-commissioned portraits of friends and colleagues. His fine manners, perfect French, and great skill made him a standout among the newer portraitists, and his fame quickly spread. He confidently set high prices and turned down unsatisfactory sitters. He mentored his friend Emil Fuchs who was learning to paint portraits in oils.
+In the early 1880s, Sargent regularly exhibited portraits at the Salon, and these were mostly full-length portrayals of women, such as Madame Edouard Pailleron (1880) (done en plein-air) and Madame Ramón Subercaseaux (1881). He continued to receive positive critical notice.
+Sargent\'s best portraits reveal the individuality and personality of the sitters; his most ardent admirers think he is matched in this only by Velázquez, who was one of Sargent\'s great influences. The Spanish master\'s spell is apparent in Sargent\'s The Daughters of Edward Darley Boit, 1882, a haunting interior that echoes Velázquez\'s Las Meninas. As in many of his early portraits, Sargent confidently tries different approaches with each new challenge, here employing both unusual composition and lighting to striking effect. One of his most widely exhibited and best loved works of the 1880s was The Lady with the Rose (1882), a portrait of Charlotte Burckhardt, a close friend and possible romantic attachment.
+His most controversial work, Portrait of Madame X (Madame Pierre Gautreau) (1884) is now considered one of his best works, and was the artist\'s personal favorite; he stated in 1915, \"I suppose it is the best thing I have done.\" When unveiled in Paris at the 1884 Salon, it aroused such a negative reaction that it likely prompted Sargent\'s move to London. Sargent\'s self-confidence had led him to attempt a risque experiment in portraiture—but this time it unexpectedly backfired. The painting was not commissioned by her, and he pursued her for the opportunity, quite unlike most of his portrait work where clients sought him out. Sargent wrote to a common acquaintance:
+I have a great desire to paint her portrait and have reason to think she would allow it and is waiting for someone to propose this homage to her beauty. ...you might tell her that I am a man of prodigious talent.
+It took well over a year to complete the painting. The first version of the portrait of Madame Gautreau, with the famously plunging neckline, white-powdered skin, and arrogantly cocked head, featured an intentionally suggestive off-the-shoulder dress strap, on her right side only, which made the overall effect more daring and sensual. Sargent repainted the strap to its expected over-the-shoulder position to try to dampen the furor, but the damage had been done. French commissions dried up and he told his friend Edmund Gosse in 1885 that he contemplated giving up painting for music or business.
+Writing of the reaction of visitors, Judith Gautier observed:
+Is it a woman? a chimera, the figure of a unicorn rearing as on a heraldic coat of arms or perhaps the work of some oriental decorative artist to whom the human form is forbidden and who, wishing to be reminded of woman, has drawn the delicious arabesque? No, it is none of these things, but rather the precise image of a modern woman scrupulously drawn by a painter who is a master of his art.\"
+Prior to the Madame X scandal of 1884, Sargent had painted exotic beauties such as Rosina Ferrara of Capri, and the Spanish expatriate model Carmela Bertagna, but the earlier pictures had not been intended for broad public reception. Sargent kept the painting prominently displayed in his London studio until he sold it to the Metropolitan Museum of Art in 1916 after moving to the United States, and a few months after Gautreau\'s death.
+Before arriving in England, Sargent began sending paintings for exhibition at the Royal Academy. These included the portraits of Dr. Pozzi at Home (1881), a flamboyant essay in red and his first full-length male portrait, and the more traditional Mrs. Henry White (1883). The ensuing portrait commissions encouraged Sargent to complete his move to London in 1886, where he settled in the artistic community of Chelsea. Notwithstanding the Madame X scandal, he had considered moving to London as early as 1882; he had been urged to do so repeatedly by his new friend, the novelist Henry James. In retrospect his transfer to London may be seen to have been inevitable.
+English critics were not warm at first, faulting Sargent for his \"clever\" \"Frenchified\" handling of paint. One reviewer seeing his portrait of Mrs. Henry White described his technique as \"hard\" and \"almost metallic\" with \"no taste in expression, air, or modeling.\" With help from Mrs. White, however, Sargent soon gained the admiration of English patrons and critics. Henry James also gave the artist \"a push to the best of my ability.\"
+Sargent spent much time painting outdoors in the English countryside when not in his studio. On a visit to Monet at Giverny in 1885, Sargent painted one of his most Impressionistic portraits, of Monet at work painting outdoors with his new bride nearby. Sargent is usually not thought of as an Impressionist painter, but he sometimes used impressionistic techniques to great effect. His Claude Monet Painting at the Edge of a Wood is rendered in his own version of the Impressionist style. In the 1880s, he attended the Impressionist exhibitions and he began to paint outdoors in the plein-air manner after that visit to Monet. Sargent purchased four Monet works for his personal collection during that time.
+Sargent was similarly inspired to do a portrait of his artist friend Paul César Helleu, also painting outdoors with his wife by his side. A photograph very similar to the painting suggests that Sargent occasionally used photography as an aid to composition. Through Helleu, Sargent met and painted the famed French sculptor Auguste Rodin in 1884, a rather somber portrait reminiscent of works by Thomas Eakins. Although the British critics classified Sargent in the Impressionist camp, the French Impressionists thought otherwise. As Monet later stated, \"He is not an Impressionist in the sense that we use the word, he is too much under the influence of Carolus-Duran.\"
+Sargent\'s first major success at the Royal Academy came in 1887, with the enthusiastic response to Carnation, Lily, Lily, Rose, a large piece, painted on site, of two young girls lighting lanterns in an English garden in Broadway in the Cotswolds. The painting was immediately purchased by the Tate Gallery.
+His first trip to New York and Boston as a professional artist in 1887–88 produced over 20 important commissions, including portraits of Isabella Stewart Gardner, the famed Boston art patron. His portrait of Mrs. Adrian Iselin, wife of a New York businessman, revealed her character in one of his most insightful works. In Boston, Sargent was honored with his first solo exhibition, which presented 22 of his paintings. Here he became friends with painter Dennis Miller Bunker, who traveled to England in the summer of 1888 to paint with him en plein air, and is the subject of Sargent\'s 1888 painting Dennis Miller Bunker Painting at Calcot.
+Back in London, Sargent was quickly busy again. His working methods were by then well-established, following many of the steps employed by other master portrait painters before him. After securing a commission through negotiations which he carried out, Sargent would visit the client\'s home to see where the painting was to hang. He would often review a client\'s wardrobe to pick suitable attire. Some portraits were done in the client\'s home, but more often in his studio, which was well-stocked with furniture and background materials he chose for proper effect. He usually required eight to ten sittings from his clients, although he would try to capture the face in one sitting. He usually kept up pleasant conversation and sometimes he would take a break and play the piano for his sitter. Sargent seldom used pencil or oil sketches, and instead laid down oil paint directly. Finally, he would select an appropriate frame.
+Sargent had no assistants; he handled all the tasks, such as preparing his canvases, varnishing the painting, arranging for photography, shipping, and documentation. He commanded about $5,000 per portrait, or about $130,000 in current dollars. Some American clients traveled to London at their own expense to have Sargent paint their portrait.
+Around 1890, Sargent painted two daring non-commissioned portraits as show pieces—one of actress Ellen Terry as Lady Macbeth and one of the popular Spanish dancer La Carmencita. Sargent was elected an associate of the Royal Academy, and was made a full member three years later. In the 1890s, he averaged fourteen portrait commissions per year, none more beautiful than the genteel Lady Agnew of Lochnaw, 1892. His portrait of Mrs. Hugh Hammersley (Mrs. Hugh Hammersley, 1892) was equally well received for its lively depiction of one of London\'s most notable hostesses. As a portrait painter in the grand manner, Sargent had unmatched success; he portrayed subjects who were at once ennobled and often possessed of nervous energy. Sargent was referred to as \"the Van Dyck of our times.\" Although Sargent was an American expatriate, he returned to the United States many times, often to answer the demand for commissioned portraits.
+Sargent exhibited nine of his portraits in the Palace of Fine Arts at the 1893 World\'s Columbian Exposition in Chicago.
+    </string>
+    <string name="back">back</string>
+    <string name="next">next</string>
+    <string name="previous">previous</string>
+
+
+</resources>
+
